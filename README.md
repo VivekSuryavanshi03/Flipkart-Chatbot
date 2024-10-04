@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) based chatbot that provides product recommendations and answers customer queries using product reviews from the Flipkart platform.
 
-![Architecture diagram](image_url_or_path)
+![Architecture diagram](https://github.com/VivekSuryavanshi03/Flipkart-Chatbot/blob/a2aaca62b88161f91642765dad4c158c0eed8262/image_arc.jpg)
 
 
 ## Table of Contents
