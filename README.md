@@ -35,7 +35,7 @@ To set up the project, follow these steps:
 1. Clone the repository and install the required dependencies:
 
    ```bash
-   git clone <repository-url> && cd flipkart-chatbot && pip install -q langchain langchain-community langchain-astradb langchain-groq pypdf sentence_transformers
+   git clone https://github.com/VivekSuryavanshi03/Flipkart-Chatbot.git && cd flipkart-chatbot && pip install -q langchain langchain-community langchain-astradb langchain-groq pypdf sentence_transformers
 
 ## Usage
 -ingtration with flask
